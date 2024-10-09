@@ -8,6 +8,8 @@
 <br>
 <img src="Screenshot 2024-10-09 235801.png">
 <h2>Shows QR Code Generator interface<h2>
+  <img src="Screenshot 2024-10-09 232554.png">
+<h2>Shows QR Code Generator interface where user entered the text to get the its QR Code<h2>
   <img src="Screenshot 2024-10-09 232648.png">
 <h2>Shows QR Code Generator interface where user entered the URL to get the its QR Code<h2>
 <h1>Technology used</h1>
