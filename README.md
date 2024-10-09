@@ -1,8 +1,10 @@
 <h1>QR Code Generating Website</h1>
 <h3>Live Demo: https://celebrated-fenglisu-2bb541.netlify.app/</h3>
 <h1>Information:</h1>
-<li>When the user clicks the "Generate QR Code" button, the application captures the input text or URL link , constructs the API request URL,   and fetches the QR code image.</li>
+<li>When the user clicks the "Generate QR Code" button, the application captures the input text or URL link , constructs the API request URL,and fetches the QR code image.</li>
 <li>The image is then displayed on the web page, and user can scan it using google lens to view the content</li>
+<h1>Fetching API</h1>
+<li>Here we hahve used API:https://api.qrserver.com/v1/create-qr-code/?size=150x150&data={inputtext}</li>
 <h1>Technology used</h1>
 <p>HTML5: For structuring the API interface.</p>
 <p>CSS3: For styling the elements and creating a responsive design.</p>
