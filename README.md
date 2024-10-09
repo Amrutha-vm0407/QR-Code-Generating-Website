@@ -24,11 +24,11 @@
 
 <h1>Step 2: Clone the Repository</h1>
 <p>Open your terminal (Command Prompt or Git Bash for Windows, Terminal for macOS or Linux).</p>
-<p>Use the git clone command followed by the repository's URL : https://github.com/Amrutha-vm0407/Currency-Converter.git</p>
+<p>Use the git clone command followed by the repository's URL : https://github.com/Amrutha-vm0407/QR-Code-Generating-Website.git</p>
 <p>After this type : code . to open the code in VSCode</p>
 
 
 
 <h1>Step 3: Once the repository has been cloned, navigate to the project folder using the following command:</h1>
-<p>cd Currency-Converter</p>
+<p>cd QR-Code-Generating-Website</p>
 <p>open index.html and then run the code </p>
